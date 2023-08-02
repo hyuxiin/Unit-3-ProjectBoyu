@@ -1,0 +1,63 @@
+body {
+    text-align: center;
+  font-family: 'Mynerve', cursive;
+}
+
+img {
+    width: 350px;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    font-size: 30px;
+    font-weight: 800;
+}
+
+button {
+    height: 40px;
+}
+
+h1 {
+    font-size: 50px;
+    color: black;
+}
+
+/* ----------------------------------------------------------------------- */
+
+
+.p2 {
+  display:none;
+}
+
+.p3v1 {
+  display:none;
+}
+
+.p3v2 {
+  display:none;
+}
+
+.p4v1 {
+  display:none;
+}
+
+.p4v2 {
+  display:none;
+}
+
+.p5v1 {
+  display:none;
+}
+
+.p5v2 {
+  display:none;
+}
+
+.p6 {
+  display:none;
+  font-family: 'Yuji Boku', serif;
+}
